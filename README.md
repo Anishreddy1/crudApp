@@ -1,4 +1,4 @@
-Steps to run CRUDAPP applications on chrome browser !!!
+Steps to run CRUDAPP applications on chrome browserof windows  !!!
 
 -Create the mysql database/tables/ from db.sql
 
