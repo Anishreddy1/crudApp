@@ -1,4 +1,4 @@
-Steps to run
+Steps to run CRUDAPP applications 
 
 -Create the mysql database/tables/ from db.sql
 
