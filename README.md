@@ -5,6 +5,7 @@ Steps to run CRUDAPP applications on chrome browserof windows  !!!
 -Run the following command from the project folder
 
    mvn clean package
+   # "hello world"
    
 -Take the war from target directory 
 
